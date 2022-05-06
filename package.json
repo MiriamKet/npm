@@ -18,9 +18,13 @@
   },
   "homepage": "https://github.com/MiriamKet/npm#readme",
   "dependencies": {
-    "bootstrap": "^4.6.1"
+    "bootstrap": "^4.6.1",
+    "express": "^4.18.1"
   },
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
   }
 }
+
+
